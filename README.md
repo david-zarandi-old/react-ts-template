@@ -1,2 +1,3 @@
-# friendly-lamp
+# Friendly-lamp
+
 Solana GIF wall
