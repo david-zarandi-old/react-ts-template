@@ -8,16 +8,16 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azuwey/solid-ts-template.git"
+    "url": "git+https://github.com/azuwey/react-ts-template.git"
   },
   "bugs": {
-    "url": "https://github.com/azuwey/solid-ts-template/issues"
+    "url": "https://github.com/azuwey/react-ts-template/issues"
   },
-  "homepage": "https://github.com/azuwey/solid-ts-template#readme",
+  "homepage": "https://github.com/azuwey/react-ts-template#readme",
   "scripts": {
     "build": "tsc && vite build",
     "start:dev": "vite",
-    "start:prod": "vite preview",
+    "start:prev": "vite preview",
     "lint": "eslint 'src/**/*.{ts,tsx}'",
     "lint:fix": "eslint --fix 'src/**/*.{ts,tsx}'",
     "format": "prettier --write 'src/**/*.{ts,tsx,css}' --config ./.prettierrc"
@@ -43,6 +43,7 @@
     "prettier-plugin-tailwindcss": "^0.1.13",
     "tailwindcss": "^3.1.7",
     "typescript": "^4.6.4",
-    "vite": "^3.0.4"
+    "vite": "^3.0.4",
+    "vite-tsconfig-paths": "^3.5.0"
   }
 }
