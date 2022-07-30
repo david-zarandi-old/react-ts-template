@@ -2,7 +2,18 @@
   "name": "react-ts-template",
   "private": true,
   "version": "0.0.0",
+  "main": "src/index.tsx",
   "type": "module",
+  "author": "David Zarandi",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azuwey/solid-ts-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azuwey/solid-ts-template/issues"
+  },
+  "homepage": "https://github.com/azuwey/solid-ts-template#readme",
   "scripts": {
     "build": "tsc && vite build",
     "start:dev": "vite",
