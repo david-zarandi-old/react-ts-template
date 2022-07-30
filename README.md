@@ -1,3 +1,3 @@
-# Friendly-lamp
+# React TS Template
 
-Solana GIF wall
+TODO
